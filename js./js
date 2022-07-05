@@ -1,8 +1,0 @@
-console.log ("This is working");
-
-document.getElementsById("aboutus").addEventListener("click", openaboutus);
-
-function openaboutus () {
-    document.getElementsById ("dropdown").classList.toggle("active");
-}
-
